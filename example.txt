@@ -1,0 +1,6 @@
+[{
+    productName:"arvind",
+    productPrice: 1000,
+    Date:"dhh"
+    },
+]
