@@ -8,7 +8,7 @@ const app=express();
 // connect mongo 
 connetDb();
 const corseOption={
-    origin: 'http://localhost:5173',
+    origin: 'https://66db40d69f3d28d3c2256e6b--cozy-salmiakki-43792f.netlify.app',
     credentials: true,
 
 }
